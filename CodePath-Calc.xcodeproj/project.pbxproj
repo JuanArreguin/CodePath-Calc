@@ -397,6 +397,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "CodePath-Calc/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codepath.CodePath-Calc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -408,6 +409,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "CodePath-Calc/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.codepath.CodePath-Calc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -481,6 +483,7 @@
 				8A1044241BDF4E3E00800253 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A1044251BDF4E3E00800253 /* Build configuration list for PBXNativeTarget "CodePath-CalcTests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +492,7 @@
 				8A1044271BDF4E3E00800253 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A1044281BDF4E3E00800253 /* Build configuration list for PBXNativeTarget "CodePath-CalcUITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +501,7 @@
 				8A10442A1BDF4E3E00800253 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
